@@ -6,9 +6,9 @@ I am a front-end web developer working hard to become a full-stack developer.
 
 ## My Github Stats
 
-[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinengelbrecht&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinengelbrecht&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/austinengelbrecht)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinengelbrecht&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinengelbrecht&theme=dark)](https://github.com/austinengelbrecht)
 
 ## I'm currently working on
 
