@@ -14,7 +14,7 @@ I am a front-end web developer working hard to become a full-stack developer.
 
 ### The Toxic Tournaments Website
 
-Toxic Tournaments is a small but growing video game tournament hosting service located in Missouri.
+Toxic Tournaments is a small but growing video game tournament hosting service located in Mid-Missouri.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=toxictournaments&theme=dark)](https://github.com/austinengelbrecht/toxictournaments)
 
@@ -23,6 +23,19 @@ Toxic Tournaments is a small but growing video game tournament hosting service l
 The Cat Fact Browser Extension is a small project I created to learn the concepts of the ELM language.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=catfacts&theme=dark)](https://github.com/austinengelbrecht/catfacts)
+
+## I'm currently learning
+
+I am always working to advance my skills and want to broaden my knowledge of web development and web design.
+
+I'm actively learning:
+
+- ELM
+- Node.js
+- Nuxt
+- SupaBase
+- TailwindCSS
+- Vue
 
 <!--
 **austinengelbrecht/austinengelbrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
