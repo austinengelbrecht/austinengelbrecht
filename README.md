@@ -2,8 +2,6 @@
 
 I am a front-end web developer working hard to become a full-stack developer.
 
-![A photo of Austin Engelbrecht](austin_engelbrecht.jpg)
-
 ## My Github Stats
 
 [![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinengelbrecht&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/austinengelbrecht)
