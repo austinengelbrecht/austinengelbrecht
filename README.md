@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hey I'm Austin
+
+**I am a front-end web developer working hard to become a full-stack developer**
+
+<img src="austin_engelbrecht.jpg" alt="A photo of Austin Engelbrecht" width="300" height="300"/>
 
 <!--
 **austinengelbrecht/austinengelbrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
