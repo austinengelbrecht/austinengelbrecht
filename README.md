@@ -1,8 +1,6 @@
 # Hey, I'm Austin
 
-I am a front-end web developer working hard to become a full-stack developer.
-
-## My Github Stats
+Hi, my name is Austin! While getting my Information Science degree, I found my passion for building websites and working in front-end code. I am a self-motivated developer striving to improve my skills and stay up-to-date with the latest technologies. Whether it's through online courses, attending conferences, or working on personal projects, I am constantly striving to learn and grow as a web developer.
 
 [![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinengelbrecht&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/austinengelbrecht)
 
