@@ -1,6 +1,6 @@
 # Hey, I'm Austin
 
-I am a front-end web developer working hard to become a full-stack developer
+I am a front-end web developer working hard to become a full-stack developer.
 
 ![A photo of Austin Engelbrecht](austin_engelbrecht.jpg)
 
