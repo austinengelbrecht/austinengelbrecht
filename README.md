@@ -18,6 +18,12 @@ Toxic Tournaments is a small but growing video game tournament hosting service l
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=toxictournaments&theme=dark)](https://github.com/austinengelbrecht/toxictournaments)
 
+### Cat Facts Browser Extension
+
+The Cat Fact Browser Extension is a small project I created to learn the concepts of the ELM language.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=catfacts&theme=dark)](https://github.com/austinengelbrecht/catfacts)
+
 <!--
 **austinengelbrecht/austinengelbrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
