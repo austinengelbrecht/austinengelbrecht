@@ -1,8 +1,14 @@
-# Hey I'm Austin
+# Hey, I'm Austin
 
-**I am a front-end web developer working hard to become a full-stack developer**
+I am a front-end web developer working hard to become a full-stack developer
 
-<img src="austin_engelbrecht.jpg" alt="A photo of Austin Engelbrecht" width="300" height="300"/>
+![A photo of Austin Engelbrecht](austin_engelbrecht.jpg)
+
+## My Github Stats
+
+[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinengelbrecht&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinengelbrecht&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **austinengelbrecht/austinengelbrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
