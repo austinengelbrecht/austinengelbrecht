@@ -26,6 +26,7 @@ I am always working to advance my skills and want to broaden my knowledge of web
 
 I'm actively learning:
 
+- Astro
 - ELM
 - Node.js
 - Nuxt
