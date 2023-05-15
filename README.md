@@ -4,7 +4,7 @@ Hi, my name is Austin! While getting my Information Science degree, I found my p
 
 <!-- [![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinengelbrecht&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/austinengelbrecht) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinengelbrecht&theme=dark)](https://github.com/austinengelbrecht)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinengelbrecht&langs_count=6&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht)
 
 ## I'm currently working on
 
@@ -12,13 +12,13 @@ Hi, my name is Austin! While getting my Information Science degree, I found my p
 
 Toxic Tournaments is a small but growing video game tournament hosting service located in Mid-Missouri.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=toxictournaments&theme=dark)](https://github.com/austinengelbrecht/toxictournaments)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=toxictournaments&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht/toxictournaments)
 
 ### Cat Facts Browser Extension
 
 The Cat Fact Browser Extension is a small project I created to learn the concepts of the ELM language.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=catfacts&theme=dark)](https://github.com/austinengelbrecht/catfacts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=catfacts&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht/catfacts)
 
 ## I'm currently learning
 
@@ -30,6 +30,7 @@ I'm actively learning:
 - ELM
 - Node.js
 - Nuxt
+- Rust
 - SupaBase
 - TailwindCSS
 - Vue
