@@ -4,7 +4,7 @@ Hi, my name is Austin! While getting my Information Science degree, I found my p
 
 <!-- [![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinengelbrecht&hide=contribs,issues&show_icons=true&theme=dark)](https://github.com/austinengelbrecht) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinengelbrecht&langs_count=6&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austinengelbrecht&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht)
 
 ## I'm currently working on
 
