@@ -49,13 +49,6 @@ I am always working to advance my skills and want to broaden my knowledge of web
 <img style="padding:5px;" align="center" alt="Rust" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"/>
 <img style="padding:5px;" align="center" alt="Supabase" width="35px" src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png"/>
 </p>
-<!--
-- Docker
-- Node.js
-- Nuxt
-- Rust
-- SupaBase
--->
 
 <!--
 **austinengelbrecht/austinengelbrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
