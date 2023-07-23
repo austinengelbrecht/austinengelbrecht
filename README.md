@@ -10,6 +10,12 @@ Hey, my name is Austin! While getting my Information Science degree, I found my 
 
 ## I'm currently working on
 
+### My Personal Website
+
+This is my personal portfolio website.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=portfolio-nuxt&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht/portfolio-nuxt)
+
 ### The Toxic Tournaments Website
 
 Toxic Tournaments is a small but growing video game tournament hosting service located in Mid-Missouri.
@@ -46,7 +52,6 @@ I am always working to advance my skills and want to broaden my knowledge of web
 <img style="padding:5px;" align="center" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"/>
 <img style="padding:5px;" align="center" alt="Node JS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img style="padding:5px;" align="center" alt="Nuxt JS" width="35px" src="https://raw.githubusercontent.com/github/explore/37f1f9609f5c48a47f4d9c1a916fc2069fd0141c/topics/nuxt/nuxt.png"/>
-<img style="padding:5px;" align="center" alt="Rust" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"/>
 <img style="padding:5px;" align="center" alt="Supabase" width="35px" src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png"/>
 </p>
 
