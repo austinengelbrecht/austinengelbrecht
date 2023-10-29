@@ -22,6 +22,12 @@ Toxic Tournaments is a small but growing video game tournament hosting service l
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=toxictournaments&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht/toxictournaments)
 
+### Hands On Rust
+
+In my free time I enjoy learning new things. Currently, I'm learning Rust!
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=Hands_On_Rust&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht/Hands_On_Rust)
+
 ### Cat Facts Browser Extension
 
 The Cat Fact Browser Extension is a small project I created to learn the concepts of the ELM language.
