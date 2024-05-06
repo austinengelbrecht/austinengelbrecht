@@ -14,7 +14,7 @@ Hey, my name is Austin! While getting my Information Science degree, I found my 
 
 This is my personal portfolio website.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=portfolio-nuxt&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht/portfolio-astro)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=portfolio-astro&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht/portfolio-astro)
 
 ### Hands On Rust
 
