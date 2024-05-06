@@ -14,13 +14,7 @@ Hey, my name is Austin! While getting my Information Science degree, I found my 
 
 This is my personal portfolio website.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=portfolio-nuxt&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht/portfolio-nuxt)
-
-### The Toxic Tournaments Website
-
-Toxic Tournaments is a small but growing video game tournament hosting service located in Mid-Missouri.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=toxictournaments&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht/toxictournaments)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=austinengelbrecht&repo=portfolio-nuxt&theme=dark#gh-dark-mode-only)](https://github.com/austinengelbrecht/portfolio-astro)
 
 ### Hands On Rust
 
